@@ -1,4 +1,4 @@
-![header](https://github.com/ZirkoniaMC/.github/profile/github-header.png?raw=true "header")
+![header](https://github.com/ZirkoniaMC/.github/blob/main/profile/github-header.png?raw=true "header")
 
 <div align="center">
 <a href="https://zirkoniamc.net/tiktok" target="_blank">
